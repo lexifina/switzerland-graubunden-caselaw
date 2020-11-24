@@ -1,0 +1,319 @@
+---
+decision_id: "gr_gerichte_ZK2 2020 8"
+court: "GR Gerichte"
+court_id: "gr_gerichte"
+chamber: "ZK2"
+docket: "ZK2 2020 8"
+decided: "2020-11-24"
+language: "de"
+source_url: "https://entscheidsuche.gr.ch/tribunavtplus/ServletDownload/ZK2_2020_8_ea3b182beef59b8c349185d9526f43b08ca2264ab0e2c0acca19b59adcd609768ca66e95b26a4efa6213f69649195e63b87091b62db79c4d4922a92e06f271d3edc1bc0425c099a9488a18062b80f8de?path=ea3b182beef59b8c349185d9526f43b08ca2264ab0e2c0acca19b59adcd609768ca66e95b26a4efa6213f69649195e63b87091b62db79c4d4922a92e06f271d3edc1bc0425c099a9488a18062b80f8de&pathIsEncrypted=1&dossiernummer=ZK2_2020_8"
+cites_decisions: ["5A_1002/2020", "5A_288/2011", "5A_312/2007", "BGE 140 III 101", "BGE 140 III 105", "BGE 143 III 189"]
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-090.md", "switzerland/bund/acts/210/art-426.md", "switzerland/bund/acts/210/art-429.md", "switzerland/bund/acts/210/art-439.md", "switzerland/bund/acts/210/art-443.md", "switzerland/bund/acts/210/art-446.md", "switzerland/bund/acts/210/art-450.md", "switzerland/bund/acts/210/art-450a.md", "switzerland/bund/acts/210/art-450b.md", "switzerland/bund/acts/210/art-450e.md", "switzerland/bund/acts/272/art-106.md"]
+---
+
+# Berufung OR Allgemeine Bestimmungen
+
+## Text
+
+Kantonsgericht von Graubünden
+Dretgira chantunala dal Grischun
+Tribunale cantonale dei Grigioni
+1 / 9
+Entscheid vom 24. November 2020
+(Mit Urteil 5A_1002/2020 vom 03. Dezember 2020 ist das Bundesgericht auf die gegen diesen
+Entscheid erhobene Beschwerde nicht eingetreten.)
+Referenz
+ZK1 20 160
+Instanz
+I. Zivilkammer
+Besetzung
+Brunner, Vorsitzender
+Michael Dürst und Nydegger
+Straumann, Aktuarin ad hoc
+Parteien
+A._____,
+Beschwerdeführer
+Gegenstand
+fürsorgerische Unterbringung
+Anfechtungsobj.
+Entscheid Kindes- und Erwachsenenschutzbehörde Nordbünden
+vom 29.10.2020, mitgeteilt am 30.10.2020
+Mitteilung
+30. November 2020
+
+2 / 9
+I. Sachverhalt
+A.
+A._____, von O.1_____, geboren am _____ 1997, trat am _____ 2020 auf
+Zuweisung von Dr. med. B._____, O.2_____, notfallmässig freiwillig in die psych-
+iatrische Klinik C._____ ein.
+B.
+Am 20. September 2020 wurde von Dr. med. D._____, Fachärztin für
+Psychiatrie und Psychotherapie FMH in O.2_____, die ärztliche fürsorgerische
+Unterbringung des zuvor freiwillig eingetretenen A._____ verfügt.
+C.
+Am _____ 2020 verfügte Dr. med. E._____, Chefärztin Akutpsychiatrie und
+Rehabilitation Klinik C._____, eine Behandlung ohne Zustimmung.
+D.
+Mit Schreiben vom 14. Oktober 2020 ersuchte Dr. med. E._____ bei der
+Kindes- und Erwachsenenschutzbehörde (nachfolgend: KESB) Nordbünden um
+Verlängerung der fürsorgerischen Unterbringung.
+E.
+Die KESB Nordbünden beauftragte daraufhin mit Verfügung vom 19. Okto-
+ber 2020 Dr. med. F._____, FMH Fachärztin für Psychiatrie und Psychotherapie in
+O.2_____, mit der Erstellung eines Kurzgutachtens über den Gesundheitszustand
+und den Behandlungsbedarf von A._____.
+F.
+Die Gutachterin besuchte A._____ am 23. Oktober 2020 in der Klinik
+C._____ und dieser wurde am 29. Oktober 2020 ebendort von einem Behörden-
+mitglied der KESB auch angehört.
+G.
+Mit Entscheid vom 29. Oktober 2020, mitgeteilt am 30. Oktober 2020, ent-
+schied die KESB Nordbünden, dass A._____ fürsorgerisch untergebracht bleibe.
+Gleichzeitig wurde die Leitung der Klinik C._____ angewiesen, der KESB Norbün-
+den einen Verlaufsbericht einzureichen, sobald sich abzeichne, dass die Voraus-
+setzungen für die fürsorgerische Unterbringung von A._____ nicht mehr gegeben
+seien, spätestens jedoch per 9. April 2021.
+H.
+Gegen diesen Entscheid erhob A._____ (nachfolgend: Beschwerdeführer)
+mit Eingabe vom 10. Oktober 2020 Beschwerde bei der KESB Nordbünden, wel-
+che das Schreiben gleichentags an das Kantonsgericht von Graubünden weiterlei-
+tete.
+I.
+Die KESB Nordbünden stellte dem Kantonsgericht von Graubünden am 18.
+Oktober 2020 die Verfahrensakten zu, beantragte unter gesetzlicher Kosten- und
+Entschädigungsfolge die Abweisung der Beschwerde, soweit darauf eingetreten
+werden könne. Unter Verweis auf die Erwägungen des angefochtenen Entscheids
+
+3 / 9
+sowie auf die Akten wurde auf eine einlässliche Beschwerdeantwort verzichtet.
+Grundsätzlich verzichtet wurde auch auf die Teilnahme an einer allfälligen Haupt-
+verhandlung.
+J.
+Mit Schreiben vom 19. November 2020 reichte die ärztliche Leitung der Kli-
+nik C._____ einen kurzen Bericht betreffend den Gesundheitszustand des Be-
+schwerdeführers, seine Behandlung und die Notwendigkeit seiner fürsorgerischen
+Unterbringung sowie weitere diesbezügliche Dokumente ein.
+K.
+Die Hauptverhandlung fand am 24. Oktober 2020 statt. Der Beschwerde-
+führer nahm persönlich in Begleitung eines Pflegers sowie eines Security-
+Mitarbeiters teil. Bezüglich der richterlichen Befragung des Beschwerdeführers
+wird auf das separat angefertigte Protokoll verwiesen. Nach der Durchführung der
+Urteilsberatung wurde gleichentags das vorzeitige Entscheiddispositiv zugestellt.
+L.
+Auf die Aussagen des Beschwerdeführers anlässlich der richterlichen Be-
+fragung sowie auf die Ausführungen in den Eingaben, dem Gutachten und den
+beigezogenen Akten wird, soweit erforderlich, in den nachfolgenden Erwägungen
+eingegangen.
+II. Erwägungen
+1.
+Gegen Entscheide der Erwachsenenschutzbehörde kann gemäss Art. 450
+ZGB i.V.m. Art. 60 Abs. 1 des Einführungsgesetzes zum Zivilgesetzbuch (EGz-
+ZGB; BR 210.100) Beschwerde an das Kantonsgericht von Graubünden erhoben
+werden. Da es sich vorliegend um einen Entscheid auf dem Gebiet der fürsorgeri-
+schen Unterbringung handelt, muss die Beschwerde nicht begründet werden (Art.
+450e Abs. 1 ZGB). Mit der Beschwerde vom 10. November 2020 gegen den Ent-
+scheid der KESB Nordbünden vom 29. Oktober 2020, mitgeteilt am Freitag 30.
+Oktober 2020 und dem Beschwerdeführer annahmeweise zugegangen am Mon-
+tag 2. November 2020, wurde die Beschwerdefrist von 10 Tagen eingehalten (Art.
+450b Abs. 2 ZGB), womit auf die Beschwerde einzutreten ist.
+2.
+Gemäss Art. 429 Abs. 2 ZGB fällt die ärztliche Unterbringung spätestens
+nach Ablauf der festgelegten Dauer dahin, sofern nicht ein vollstreckbarer Unter-
+bringungsentscheid der Erwachsenenschutzbehörde vorliegt. Die ärztliche Unter-
+bringung des Beschwerdeführers wurde am 20. September 2020 verfügt und lief
+am 6. November 2020 aus. Dr. med. E._____ ersuchte am 14. Oktober 2020 um
+Verlängerung der bestehenden Unterbringung (KESB act. 302). Mit Entscheid vom
+29. Oktober 2020 hiess die KESB Nordbünden den Antrag von Dr. med. E._____
+gut und verlängerte die fürsorgerische Unterbringung des Beschwerdeführers (act.
+
+4 / 9
+02). Einer allfälligen Beschwerde wurde die aufschiebende Wirkung entzogen,
+womit der noch vor Ablauf der ärztlichen Unterbringung ergangene Entscheid voll-
+streckbar wurde.
+3.1.
+Das Verfahren vor der Beschwerdeinstanz richtet sich grundsätzlich nach
+den Art. 450 ff. ZGB. Zu beachten sind weiter die allgemeinen Verfahrens-
+grundsätze des erstinstanzlichen Verfahrens (Art. 443 ff. ZGB), soweit das Gesetz
+in den Art. 450 ff. ZGB keine abweichenden Vorschriften enthält (Lorenz Droe-
+se/Daniel Steck, in: Geiser/Fountoulakis [Hrsg.], Basler Kommentar, Zivilgesetz-
+buch I, 6. Aufl., Basel 2018, N 13 zu Art. 450 ZGB). Dies gilt namentlich für die in
+Art. 446 ZGB verankerte uneingeschränkte Untersuchungs- und Offizialmaxime
+und das an gleicher Stelle festgeschriebene Prinzip der Rechtsanwendung von
+Amtes wegen. Aus Art. 450a ZGB wie auch aus Art. 5 Ziff. 4 der Konvention zum
+Schutze der Menschenrechte und Grundfreiheiten (EMRK; SR 0.101) ergibt sich
+schliesslich, dass das Gericht Tat- und Rechtsfragen wie auch die Angemessen-
+heit frei überprüft und ihm von Bundesrechts wegen volle Kognition zukommt.
+3.2.
+Das Gesetz schreibt in Art. 450e Abs. 3 ZGB ausdrücklich vor, dass das
+Gericht aufgrund eines Gutachtens entscheiden muss, sofern die betroffene Per-
+son an einer psychischen Störung leidet. Das Gutachten muss von einer unab-
+hängigen, im laufenden Verfahren noch nicht involvierten sachverständigen Per-
+son erstellt werden und in dem Sinne aktuell sein, dass es sich zu den sich im ge-
+richtlichen Verfahren stellenden Fragen äussern muss (BGE 143 III 189 E. 3.2 f.;
+Thomas Geiser/Mario Etzensberger, in: Geiser/Fountoulakis [Hrsg.], Basler Kom-
+mentar, Zivilgesetzbuch I, 6. Aufl., Basel 2018, N 48 ff. zu Art. 439 ZGB; Thomas
+Geiser, in: Geiser/Fountoulakis [Hrsg.], Basler Kommentar, Zivilgesetzbuch I, 6.
+Aufl., Basel 2018, N 19 zu Art. 450e ZGB). Mit dem Kurzgutachten vom 29. Okto-
+ber 2020 von Dr. med. F._____ (KESB act. 315), welche den Beschwerdeführer
+am 23. Oktober 2020 persönlich untersuchte, wurde dieser Vorschrift Genüge ge-
+tan.
+3.3
+Gemäss Art. 450e Abs. 4 Satz 1 ZGB muss die gerichtliche Beschwerdein-
+stanz die betroffene Person in der Regel als Kollegium anhören, was faktisch
+zwingend zur Durchführung einer mündlichen Hauptverhandlung führt (vgl. Chri-
+stof Bernhart, Handbuch der fürsorgerischen Unterbringung, Basel 2011, N 848 f.).
+Mit Durchführung der mündlichen Hauptverhandlung am 24. November 2020 wur-
+de diese Vorgabe umgesetzt.
+4.1.
+Gemäss Art. 426 Abs. 1 ZGB darf eine Person, welche an einer psychi-
+schen Störung oder an geistiger Behinderung leidet oder verwahrlost ist, in einer
+
+5 / 9
+geeigneten Einrichtung untergebracht werden, wenn die nötige Behandlung oder
+Betreuung nicht anders erfolgen kann. Die Belastung und der Schutz von Angehö-
+rigen und Dritten sind zu berücksichtigen (Abs. 2). Die betroffene Person wird ent-
+lassen, sobald die Voraussetzungen der Unterbringung nicht mehr erfüllt sind
+(Abs. 3). Die genannten Voraussetzungen bedingen sich gegenseitig und sind nur
+in ihrem Zusammenhang verständlich. Der Schwächezustand allein vermag eine
+fürsorgerische Unterbringung nie zu rechtfertigen, sondern immer nur zusammen
+mit der Notwendigkeit einer Behandlung oder Betreuung. Selbst bei Vorliegen ei-
+ner solchen ist die freiheitsbeschränkende Unterbringung aber nur gesetzeskon-
+form, wenn der Zweck der Unterbringung nicht mit einer milderen Massnahme er-
+reicht werden kann (Verhältnismässigkeitsprinzip) und die Unterbringung für den
+angestrebten Zweck auch tauglich ist (vgl. Thomas Geiser/Mario Etzensberger,
+a.a.O., N 7 zu Art. 426 ZGB). Die fürsorgerische Unterbringung dient dem Schutz
+der betroffenen Person und nicht der Umgebung (vgl. dazu Botschaft zur Ände-
+rung des Schweizerischen Zivilgesetzbuches [Erwachsenenschutz, Personenrecht
+und Kindesrecht] vom 28. Juni 2006, BBl 2006 7001, S. 7062 [zitiert: Botschaft]).
+Der Entscheid über die Entlassung ist anhand der Lage des Betroffenen im aktuel-
+len Zeitpunkt zu bestimmen. Bei der Beurteilung der Entlassungsfrage muss
+schlussendlich eine Interessenabwägung im Hinblick auf den Zweck der fürsorge-
+rischen Unterbringung, nämlich die Wiedererlangung der Selbständigkeit und der
+Eigenverantwortung im Entlassungszeitpunkt, vorgenommen werden (vgl. Thomas
+Geiser/Mario Etzensberger, a.a.O., N 44 f. zu Art. 426 ZGB).
+4.2.
+Wie insbesondere dem Kurzgutachten vom 29. Oktober 2020 (KESB act.
+315, S. 2) entnommen werden kann, wurde beim Beschwerdeführer 2016 eine
+Erkrankung aus dem schizophrenen Formenkreis diagnostiziert. Als Hauptdiagno-
+se wird eine bipolare Persönlichkeitsstörung mit gegenwärtig manischer Episode
+und psychotischen Symptomen (ICD-10: F31.2) genannt. Dies entspricht einer
+psychischen Störung gemäss Art. 426 Abs. 1 ZGB, womit der für die fürsorgeri-
+sche Unterbringung notwendige Schwächezustand beim Beschwerdeführer
+grundsätzlich gegeben ist (vgl. Botschaft, S. 7062; Thomas Geiser/Mario Etzens-
+berger, a.a.O., N 15 f. zu Art. 426 ZGB).
+4.3.1. Dieser Schwächezustand des Beschwerdeführers vermag eine fürsorgeri-
+sche Unterbringung jedoch nur zu rechtfertigen, wenn er eine Behandlung oder
+Betreuung in einer Einrichtung notwendig macht. Die Unterbringung in einer Ein-
+richtung muss geeignet sein, den Zweck der beabsichtigten Behandlung zu erfül-
+len, ohne dass eine weniger einschneidende Massnahme (z.B. ambulante Mass-
+nahmen, Nachbetreuung, freiwillige Sozialhilfe) genügen würde. Die fürsorgeri-
+
+6 / 9
+sche Unterbringung kommt somit nur als ultima ratio in Betracht (vgl. dazu Bot-
+schaft, S. 7062; Thomas Geiser/ Mario Etzensberger, a.a.O., N 22 ff. zu Art. 426
+ZGB; Olivier Guillod, in: Büchler/Häfeli/Leuba/Stettler [Hrsg.], FamKomm, Erwach-
+senenschutz, Bern 2013, N 64 f. zu Art. 426 ZGB). Der Grundsatz der Verhältnis-
+mässigkeit besagt weiter, dass eine fürsorgerische Unterbringung nur solange auf-
+rechterhalten werden darf, wie mit einer konkreten Selbst- oder Fremdgefährdung
+von einem gewissen Ausmass zu rechnen ist. So hat das Bundesgericht festge-
+halten, dass es für die Beurteilung des Behandlungs- bzw. Betreuungsbedarfs we-
+sentlich sei, mit welcher konkreten Gefahr für die Gesundheit oder das Leben der
+betroffenen Person bzw. von Dritten zu rechnen sei, wenn die Behandlung der
+gutachterlich festgestellten Krankheit bzw. die Betreuung unterbleibe (vgl. BGE
+140 III 101 E. 6.2.2 sowie BGE 140 III 105 E. 2.4 mit Verweisen auf die Bundesge-
+richtsurteile 5A_312/2007 vom 10. Juli 2007 E. 2.3 und 5A_288/2011 vom 19. Mai
+2011 E. 5.3).
+4.3.2. Beantragt wurde die Weiterführung der fürsorgerischen Unterbringung am
+14. Oktober 2020 mit der Begründung, dass der Beschwerdeführer noch nicht in
+der Lage sei, eine Tagesstruktur selbständig aufrecht zu erhalten und seinen All-
+tag elementar zu bewältigen. Ein Austritt aus der Klinik habe das sofortige Abset-
+zen der Medikamente zur Folge, was rasch zu einer erneuten schweren psychi-
+schen Dekompensation führe. Das Risiko, dass es in der Folge auch zu einer
+Krankheitschronifizierung und Therapieresistenz komme, sei erheblich. Die fürsor-
+gerische Unterbindung sei weiterhin nötig, um die aktuellen Symptome zu reduzie-
+ren und eine nachhaltige Behandlungsstrategie zu entwickeln (KESB act. 302).
+4.3.3. Auch die Gutachterin kommt zum Schluss, dass eine stationäre Unterbrin-
+gung des Beschwerdeführers momentan (23. Oktober 2020) angebracht sei. Sie
+beschrieb den Beschwerdeführer als umtriebig, phasenweise stark psychotisch,
+distanzlos, aggressiv und bedrohlich. Eine ambulante oder teilstationäre Therapie
+sei mangels Kooperation, noch zu ausgeprägtem Antrieb, fehlender Compliance
+sowie Krankheits- und Behandlungseinsicht und anhaltenden psychotischen Sym-
+ptomen nicht möglich (KESB act. 315, S. 3).
+4.3.4. Die ärztliche Leitung der Klinik C._____ beschreibt den Gesundheitszu-
+stand des Beschwerdeführers in ihrer Stellungnahme vom 19. November 2020
+(act. 07) als ziellos euphorisch, logorroisch und ideenflüchtig mit Fehlbeurteilung
+der Realität. Trotz Behandlung sei er in einem psychotischen Zustand, was eine
+engmaschige Betreuung notwendig mache, welche der Beschwerdeführer auf
+freiwilliger Basis nicht fortführen würde.
+
+7 / 9
+4.3.5. Anlässlich der Hauptverhandlung erklärte der Beschwerdeführer, dass er
+eigentlich gerne noch ein paar Wochen in der Klinik C._____ bleiben würde, ins-
+besondere auch, weil es ihm dort besser gefalle als im Wohnheim in O.3_____.
+Die Beschwerde gegen den Entscheid der KESB habe er nur erhoben, weil er
+nicht fürsorgerisch untergebracht, sondern auf freiwilliger Basis in der Klink sein
+wolle. Die KESB sei schon gut, er brauche sie aber nicht (act. 09, S. 4). Vor die-
+sem Hintergrund wirkt die Zusicherung des Beschwerdeführers, tatsächlich in der
+Klinik bleiben zu wollen, einstudiert und wenig glaubwürdig. Dass der Beschwer-
+deführer der Ansicht ist, dass er immer die Wahrheit sage, auch wenn er lüge, und
+dass er nur in der Klinik verbleiben will, weil er nicht in das Wohnheim O.3_____
+zurückkehren will, verstärkt diesen Eindruck.
+4.3.6. Nach dem Gesagten wäre die Entlassung des Beschwerdeführers aus der
+fürsorgerischen Unterbringung momentan verfrüht, da sich der Beschwerdeführer
+gemäss Stellungnahme der ärztlichen Leitung der Klinik C._____ (act. 07) auch
+nach einmonatiger stationärer Behandlungen noch immer in einer Psychose be-
+findet und bei einer Aufhebung der Unterbringung ein Therapieabbruch mit ra-
+scher erneuter psychischer Dekompensation zu erwarten ist. Der Beschwerdefüh-
+rer ist aufgrund der fehlenden Krankheits- und Behandlungseinsicht (KESB act.
+315, S. 3) nicht in der Lage, die Folgen einer drohenden Chronifizierung der
+Krankheit mit allfälliger Therapieresistenz einzuschätzen. Die Verlängerung der
+fürsorgerischen Unterbindung im jetzigen Zeitpunkt ist ein taugliches und notwen-
+diges Mittel, um dem Beschwerdeführer längerfristig und nachhaltig in die
+Selbständigkeit zu führen. Aus diesem Grund ist die Beschwerde abzuweisen.
+5.1.
+Der Beschwerdeführer hat nun die Möglichkeit, seine Versprechungen in
+die Tat umzusetzen und in den nächsten ein bis zwei Monaten, die er gemäss ei-
+genen Angaben ohnehin noch in der Klinik verbleiben wollte, mit dem Pflegeper-
+sonal zu kooperieren, freiwillig seinen Therapien zu folgen und seine Medikamen-
+te einzunehmen. Dem Beschwerdeführer steht es im Übrigen trotz Weiterbestand
+der fürsorgerische Unterbringung jederzeit frei, ein Entlassungsgesuch zu stellen,
+wenn er sich für den Austritt bereit fühlt.
+5.2.
+Da sich der Beschwerdeführer momentan auf einem guten Weg befindet
+und von sich aus um seine Zukunft besorgt ist, sollte er unbedingt abgeholt und
+unterstützt werden. Nach eigenen Angaben konnte er jedoch seit Januar 2020
+keinen Kontakt mehr herstellen mit seiner Beiständin G._____, da sie nach einer
+Diagnose ihr Arbeitspensum reduzierte und nun nicht mehr genügend Zeit habe
+für all ihre Klienten. Für den Fall, dass eine Überprüfung der Beistandschaft vor-
+
+8 / 9
+genommen wird, ist darauf hinzuweisen, dass der Beschwerdeführer den Wunsch
+äusserte, einen männlichen Beistand zugeteilt zu bekommen.
+6.
+Bei diesem Ausgang des Verfahrens wären die Kosten grundsätzlich dem
+Beschwerdeführer aufzuerlegen (vgl. Art. 60 Abs. 2 EGzZGB i.V.m. Art. 106
+Abs. 1 ZPO). Angesichts der finanziellen Verhältnisse des Beschwerdeführers,
+welcher lediglich über eine IV-Rente verfügt, rechtfertigt es sich vorliegend, im
+Sinne von Art. 63 Abs. 3 EGzZGB auf die Erhebung von Verfahrenskosten zu ver-
+zichten. Damit verbleiben die Kosten des Beschwerdeverfahrens von insgesamt
+CHF 1'500.00 beim Kanton Graubünden.
+
+9 / 9
+III. Demnach wird erkannt:
+1.
+Die Beschwerde wird abgewiesen.
+2.
+Die Kosten für das Beschwerdeverfahren von insgesamt CHF 1'500.00 ge-
+hen zu Lasten des Kantons Graubünden.
+3.
+Gegen diese Entscheidung kann gemäss Art. 72 BGG Beschwerde in Zivil-
+sachen an das Schweizerische Bundesgericht, 1000 Lausanne 14, geführt
+werden. Die Beschwerde ist dem Bundesgericht schriftlich, innert 30 Tagen
+seit Eröffnung der vollständigen Ausfertigung der Entscheidung in der
+gemäss Art. 42 f. BGG vorgeschriebenen Weise einzureichen. Für die
+Zulässigkeit, die Beschwerdelegitimation, die weiteren Voraussetzungen
+und das Verfahren der Beschwerde gelten die Art. 29 ff., 72 ff. und Art. 90
+ff. BGG.
+4.
+Mitteilung an:
