@@ -1,0 +1,18 @@
+---
+decision_id: "gr_gerichte_PVG_2010_11"
+court: "GR Gerichte"
+source_url: "https://entscheidsuche.gr.ch/tribunavtplus/ServletDownload/PVG_2010_11_4d6e0efbfb0c8da1c1cb2b2e23ea3558729f991237f5059c5fad3b88c62befcfe648cd90214f9fbce6b9763a1107da19f20103cc5016bbb84125b8c6235d615e1ffd905678327a3ad6a497ca8641d4f8?path=4d6e0efbfb0c8da1c1cb2b2e23ea3558729f991237f5059c5fad3b88c62befcfe648cd90214f9fbce6b9763a1107da19f20103cc5016bbb84125b8c6235d615e1ffd905678327a3ad6a497ca8641d4f8&pathIsEncrypted=1&dossiernummer=PVG_2010_11"
+---
+
+# PVG 2010 11
+
+## Text
+
+Graubünden Verwaltungsgericht Praxis des Verwaltungsgerichts (PVG) 00.00.0000 PVG 2010 11
+Grigioni Tribunale amministrativo Prassi del Tribunale amministrativo (PTA) 00.00.0000 PVG 2010 11
+
+Praxis Verwaltungsgericht | Regeste: siehe PVG-Dokument\x3Cbr\x3E | java.util.HashMap/1797211028
+
+Graubünden Verwaltungsgericht Praxis des Verwaltungsgerichts (PVG)
+Grisons Praxis des Verwaltungsgerichts (PVG)
+Grigioni Tribunale amministrativo Prassi del Tribunale amministrativo (PTA)
